@@ -1,4 +1,6 @@
-%% slide 42
+%Atividade 03 de Processamento de imagens , entrega 14/04/2024
+%Alunos : Alan Lima Marques, Thiago Jacomo, Guilherme Inoue
+
 pkg load image ;
 
 height = 0
